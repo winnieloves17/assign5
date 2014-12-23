@@ -45,4 +45,4 @@ class Ball{
     ySpeed = 3;
     size = 10;    
   }
-  
+}
